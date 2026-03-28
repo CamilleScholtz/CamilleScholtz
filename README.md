@@ -5,4 +5,4 @@ Lately I’ve been developing in **Swift / SwiftUI**, focusing on apps for **mac
 ## Active projects
 
 - **[swmpc](https://github.com/CamilleScholtz/swmpc)** — An MPD client for macOS & iOS
-- **[tripstitch](https://tripstitch.app)** — AI trip planner
+- **[tripstitch](https://tripstitch.app)** — A beautiful AI trip planner for iOS
